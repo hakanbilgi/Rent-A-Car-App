@@ -1,0 +1,10 @@
+Django, filter() metodunda birçok kıyaslama operatörü sunmaktadır. Örnek olarak:
+exact: esitliği kontrol eder.
+iexact: case-insensitive esitliği kontrol eder.
+contains: bir string içinde arama yapar.
+icontains: case-insensitive bir string içinde arama yapar.
+gt: büyüklük karşılaştırması yapar.
+gte: büyüklük veya eşitlik karşılaştırması yapar.
+lt: küçüklük karşılaştırması yapar.
+lte: küçüklük veya eşitlik karşılaştırması yapar.
+in: belirli bir liste içinde arama yapar.
